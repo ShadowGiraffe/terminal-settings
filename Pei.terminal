@@ -27,7 +27,7 @@
 	AyoDNwNAA0UDTQAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAANQ
 	</data>
 	<key>CommandString</key>
-	<string>. ~/.profile</string>
+	<string></string>
 	<key>CursorBlink</key>
 	<true/>
 	<key>CursorColor</key>
@@ -105,7 +105,7 @@
 	AAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAADZ8=
 	</data>
 	<key>CursorType</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>Font</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
@@ -122,7 +122,7 @@
 	<key>ProfileCurrentVersion</key>
 	<real>2.0699999999999998</real>
 	<key>RunCommandAsShell</key>
-	<false/>
+	<true/>
 	<key>SelectionColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
@@ -191,10 +191,12 @@
 	<key>name</key>
 	<string>Pei</string>
 	<key>rowCount</key>
-	<integer>50</integer>
+	<integer>40</integer>
 	<key>shellExitAction</key>
-	<integer>2</integer>
+	<integer>1</integer>
 	<key>type</key>
 	<string>Window Settings</string>
+	<key>warnOnShellCloseAction</key>
+	<integer>0</integer>
 </dict>
 </plist>
